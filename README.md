@@ -1,22 +1,12 @@
 ## Hi there  👋
 
-I'm **Alexis Ribeiro**, a passionate **Software Engineer** dedicated to building impactful and scalable digital solutions.
+I'm **Alexis Ribeiro**, a passionate **Software Engineer** dedicated to building impactful and scalable digital solutions. 
 
-🔭  Currently exploring the intersection of **full-stack development** and **blockchain**.  
-🎯  Focused on writing clean, efficient, and maintainable code to turn ideas into reality.  
-      
-🌱 Always learning and improving my craft through innovation, collaboration, and currently diving deeper into **Next.js**.
+💼 Currently exploring the intersection of **full-stack development** and **blockchain**. 
+🎯 Focused on writing clean, efficient, and maintainable code to turn ideas into reality. 
 
-🧠 I'm using:  
-`Vue.js` · `TypeScript` · `Java` 
+🌱 Always learning and improving my craft through innovation, collaboration, and currently diving deeper into **Next.js**. 
 
-🚀 Projects and interests include:  
-- Building secure authentication systems using smart cards and blockchain  
-- Developing RESTful APIs and distributed applications  
-- Experimenting with decentralized identity (DID) and verifiable credentials
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis%20Ribeiro-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alexisribeiro10/)  
-[![GitHub](https://img.shields.io/badge/GitHub-alexisribeiro10-black?logo=github&style=flat-square)](https://github.com/alexisribeiro10)
+🧠 I'm using: Vue.js · TypeScript · Java 
 
-⭐️ *“Code with purpose. Learn continuously. Build for impact.”*
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alexis%20Ribeiro-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alexisribeiro10/) [![GitHub](https://img.shields.io/badge/GitHub-alexisribeiro10-black?logo=github&style=flat-square)](https://github.com/alexisribeiro10)
