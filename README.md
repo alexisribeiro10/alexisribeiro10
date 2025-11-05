@@ -1,6 +1,6 @@
 ## Hi there  👋
 
-I'm **Alexis Ribeiro**, a passionate **Software Engineer** dedicated to building impactful and scalable digital solutions. 
+I'm **Aléxis Ribeiro**, a passionate **Software Engineer** dedicated to building impactful and scalable digital solutions. 
 
 💼 Currently exploring the intersection of **full-stack development** and **blockchain**. 
 
